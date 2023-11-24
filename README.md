@@ -1,3 +1,3 @@
-Hello my name is ###Noel Zyrence M. Saludo
-I am a student if BatStateU TNEU-Alangilan
-I am studying Computer Science 
+Hello my name is Noel Zyrence M. Saludo \n
+I am a student if BatStateU TNEU-Alangilan \n
+I am studying Computer Science \n
